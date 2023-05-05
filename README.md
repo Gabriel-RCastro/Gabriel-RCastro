@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Castro</h1>
 <h3 align="center">A passionate back-end developer about innovation and technology from Brazil.</h3>
 
-- 🌱 I’m currently learning **Java and Kotlin.**
+- 🌱 I’m currently learning **Java**.
 
 - 📫 How to reach me **gabrielrodriguesdecastro@gmail.com**
 
